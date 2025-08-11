@@ -27,16 +27,16 @@ my_stack = {
 
 ## 🚀 Projects
 
-### 🔹 [Customer Churn Predictor](https://github.com/)
+### 🔹 [Customer Churn Predictor](https://github.com/krishiv-14/customer-churn)
 - Developed Decision Tree & Random Forest model in Python using scikit-learn to predict telecom customer churn with 94% accuracy 
 - Evaluated performance using accuracy, precision, recall, F1-score, and ROC-AUC
 - Analyzed feature importance to identify churn drivers
 - Presented insights via an interactive Power BI dashboard.
 
-### 🔹 [Spend-Wise](https://github.com/)
-A personal finance management web app built with React and SQLite.  
-- Features include expense tracking, recurring payments, multi-currency support, and real-time currency conversion.  
-- Integrated AI-based fraud detection using Python and Scikit-learn.  
-- Interactive dashboards and pie charts for visual spending analysis.  
+### 🔹 [Spend-Wise](https://github.com/krishiv-14/spendwise)
+-	Developed Spendwise, a web-based expense tracker to replace slow, error prone manual reporting, supporting multi-currency expense addition, OCR receipt scanning, and voice input, reducing entry time by 60%.
+-	Designed manager dashboard to track and compare individual employee spending for streamlined expense analysis, and employee dashboard with pie charts to visualize personal expense distribution.
+-	Designed and evaluated a machine learning model using Decision Tree to detect overspending by benchmarking against industry spending norms and internal policy limits, automatically flagging unusual, inconsistent, and non-compliant expenses.
+ 
 
 --- 
